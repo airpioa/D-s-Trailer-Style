@@ -1,5 +1,0 @@
-/crash_assistant crash jvm --withThreadDump --withHeapDump --GCBeforeHeapDump
-/weather thunder
-/locate biome minecraft:plains
-/tp @s 408 129 -743
-/crash_assistant crash jvm
