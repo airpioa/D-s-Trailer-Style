@@ -2,3 +2,7 @@ mods/
 .DS_Store
 saves/
 cache/
+.fabric/
+screenshots/
+logs/
+local/
