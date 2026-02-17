@@ -20,7 +20,7 @@
     "lowTraction": false,
     "restOnFloor": true,
     "bounceOffWalls": true,
-    "entityCollision": false,
+    "entityCollision": true,
     "waterPhysics": true,
     "randomSize": true,
     "randomRotation": true,
@@ -34,7 +34,7 @@
   },
   "flame": {
     "enabled": true,
-    "spawnWhileFrozen": false,
+    "spawnWhileFrozen": true,
     "infiniteDuration": false,
     "randomSize": true,
     "randomFadingSpeed": true,
@@ -44,7 +44,7 @@
   },
   "smoke": {
     "enabled": true,
-    "spawnWhileFrozen": false,
+    "spawnWhileFrozen": true,
     "infiniteDuration": false,
     "randomSize": true,
     "randomFadingSpeed": true,
@@ -62,7 +62,7 @@
   },
   "trail": {
     "enabled": true,
-    "spawnWhileFrozen": false,
+    "spawnWhileFrozen": true,
     "infiniteDuration": false,
     "randomSize": true,
     "randomFadingSpeed": true,
@@ -72,7 +72,7 @@
   },
   "firefly": {
     "enabled": true,
-    "spawnWhileFrozen": false,
+    "spawnWhileFrozen": true,
     "infiniteDuration": false,
     "randomSize": true,
     "randomDimmingSpeed": true,
@@ -116,7 +116,7 @@
   "drip": {
     "enabled": true,
     "puddle": true,
-    "spawnWhileFrozen": false,
+    "spawnWhileFrozen": true,
     "randomSize": true,
     "randomFadingSpeed": true,
     "minLifetime": 60,

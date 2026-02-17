@@ -4,7 +4,7 @@ SESSION IDENTIFICATION
 
 ID: 5ab71ac8-82e4-4bdb-865e-1918fb863e88
 
-TIME: 11:37:28
+TIME: 12:26:37
 
 UPTIME: {"placeholder":"uptime_duration"}s
 
@@ -40,7 +40,7 @@ LIGHT_LEVEL: {"placeholder":"light_level"}
 
 WEATHER: {"placeholder":"is_raining"} (Rain) / {"placeholder":"is_thundering"} (Thun.)
 
-MOUSE: X:199 Y:179
+MOUSE: X:194 Y:174
 
 ❯❯ CINEMATOGRAPHY & UI
 
@@ -60,7 +60,7 @@ RENDER_DIST: 2
 
 SIM_DIST: 32
 
-FPS_STAB: 58 FPS
+FPS_STAB: 57 FPS
 
 VSYNC: true
 
@@ -94,7 +94,7 @@ LOAD_STAG: 0%
 
 PING: {"placeholder":"player_ping"}ms
 
-LAST_WORLD: New World
+LAST_WORLD: New World-new
 
 SAVED_WORLDS: 
 
@@ -116,9 +116,9 @@ LOADER: Fabric 0.141.3+1.21.11
 
 VERSION: 1.21.11
 
-MODS: 350 / 350
+MODS: 376 / 376
 
-RAM_USE: 912MB / 8192MB (11%)
+RAM_USE: 2529MB / 8192MB (30%)
 
 ❯❯ ADVANCED RENDERING (DEBUG ONLY)
 

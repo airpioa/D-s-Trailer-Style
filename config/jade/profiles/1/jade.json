@@ -121,6 +121,11 @@
       "block_properties": false,
       "mod_name": "OFF"
     },
+    "beautify": {
+      "lamp_jar.glowstone_dust": true,
+      "trellis.pot_plant": true,
+      "hanging_pot.pot_flower": true
+    },
     "balm": {
       "jade": true
     }
