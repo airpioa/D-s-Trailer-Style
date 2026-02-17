@@ -27,7 +27,7 @@
     "tintMix": 0.6,
     "shaderpackTint": true,
     "syncRegistries": true,
-    "crossBiomeBorder": false,
+    "crossBiomeBorder": true,
     "useHeightmapTemp": true,
     "doSpawnHeightLimit": true,
     "spawnHeightLimit": 0
@@ -480,7 +480,7 @@
       "presetParticleId": "particlerain:mist",
       "usePresetParticle": true,
       "id": "mist_after_rain",
-      "enabled": false,
+      "enabled": true,
       "density": 0.1,
       "weather": "AFTER_WEATHER",
       "precipitation": [
@@ -521,7 +521,7 @@
       "presetParticleId": "particlerain:mist",
       "usePresetParticle": true,
       "id": "mist",
-      "enabled": false,
+      "enabled": true,
       "density": 0.1,
       "weather": "ALWAYS",
       "precipitation": [

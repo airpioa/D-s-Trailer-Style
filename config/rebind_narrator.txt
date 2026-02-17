@@ -1,0 +1,4 @@
+% Options for Rebind Narrator.
+
+% Does the Control key need to be held to activate the narrator keybind?
+Require CTRL = true
