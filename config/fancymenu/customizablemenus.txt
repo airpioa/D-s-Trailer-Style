@@ -27,3 +27,9 @@ net.minecraft.class_525 {
 net.minecraft.class_408 {
 }
 
+eu.kennytv.forcecloseloadingscreen.TitleBridgeScreen {
+}
+
+net.minecraft.class_429 {
+}
+

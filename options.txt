@@ -1,4 +1,5 @@
 version:4671
+betterBiomeBlendRadius:14
 toggleCrawl:false
 ao:true
 biomeBlendRadius:1
@@ -16,9 +17,9 @@ glintSpeed:0.5
 glintStrength:0.75
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:0.0
-guiScale:0
+guiScale:4
 maxAnisotropyBit:2
 textureFiltering:0
 maxFps:260
@@ -30,8 +31,8 @@ particles:1
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:32
-renderDistance:15
-simulationDistance:32
+renderDistance:12
+simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
 vignette:true
@@ -106,7 +107,7 @@ onboardAccessibility:false
 menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"pause_and_toast"
-musicFrequency:"CONSTANT"
+musicFrequency:"DEFAULT"
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -168,14 +169,23 @@ key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_tab.bettertab.keybind.toggle_mod:key.keyboard.unknown
+key_tab.bettertab.keybind.open_config:key.keyboard.n
+key_tab.bettertab.keybind.scroll_right:key.keyboard.right
+key_tab.bettertab.keybind.scroll_left:key.keyboard.left
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_flashback.keybind.create_marker_1:key.keyboard.unknown
 key_flashback.keybind.create_marker_2:key.keyboard.unknown
 key_flashback.keybind.create_marker_3:key.keyboard.unknown
 key_flashback.keybind.create_marker_4:key.keyboard.unknown
+key_key.stfu.narrator_hotkey:key.keyboard.unknown
+key_key.stfu.skip_music:key.keyboard.unknown
+key_key.stfu.toggle_music:key.keyboard.unknown
+key_View Model GUI:key.keyboard.v
 key_bedrockIfy.key.settings:key.keyboard.b
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+key_Toggle:key.keyboard.left.bracket
 key_key.crawl:key.keyboard.apostrophe
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
@@ -187,6 +197,8 @@ key_key.fbp.kill_particles:key.keyboard.unknown
 key_key.fbp.add_to_blacklist:key.keyboard.x
 key_key.fbp.reload_config:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
+key_fpsreducer.key.openGui:key.keyboard.end
+key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -216,8 +228,8 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.fancytoasts.config_menu:key.keyboard.k
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.7000001072883606
+soundCategory_music:0.2509352992957746
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
