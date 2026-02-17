@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = /Users/zylermillet/Library/Application Support/ModrinthApp/profiles/D_s Trailer Style/saves/tes-1
-}
-
