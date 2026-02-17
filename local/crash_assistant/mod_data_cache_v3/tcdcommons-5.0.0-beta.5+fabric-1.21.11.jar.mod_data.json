@@ -1,0 +1,1 @@
+{"jarName":"tcdcommons-5.0.0-beta.5+fabric-1.21.11.jar","modId":"tcdcommons","version":"5.0.0-beta.5+fabric-1.21.11","mixinConfigs":["tcdcommons.client.mixin.events.json","tcdcommons.client.mixin.hooks.json","tcdcommons.mixin.events.json","tcdcommons.mixin.hooks.json"],"jarJarMods":[],"curseForgeHash":761998052,"modrinthHash":"b555e6eaa1c2f0839144a5099091436c9988ac45"}

@@ -1,0 +1,7 @@
+{
+  "general": {
+    "prevent_climbing_in_rain": false,
+    "disable_data_sync": false,
+    "can_crawl_on_ceiling": true
+  }
+}

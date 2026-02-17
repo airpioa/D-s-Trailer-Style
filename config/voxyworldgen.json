@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "playerDistance": 25,
+  "spawnDistance": 100,
+  "chunksPerTick": 4,
+  "prioritizeNearPlayer": true,
+  "generationStyle": "SPIRAL_OUT"
+}
