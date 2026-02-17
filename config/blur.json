@@ -4,8 +4,8 @@
   "blurBooks": true,
   "blurSigns": true,
   "blurCommandBlocks": true,
-  "blurTitleScreen": false,
-  "darkenTitleScreen": false,
+  "blurTitleScreen": true,
+  "darkenTitleScreen": true,
   "forceEnabledScreens": [
     "dev.emi.emi.screen.RecipeScreen"
   ],
@@ -21,6 +21,6 @@
   "rainbowMode": false,
   "fadeTimeMillis": 300,
   "fadeOutTimeMillis": 300,
-  "blurAnimationCurve": "FLAT",
-  "backgroundAnimationCurve": "FLAT"
+  "blurAnimationCurve": "CUBIC",
+  "backgroundAnimationCurve": "QUAD"
 }
