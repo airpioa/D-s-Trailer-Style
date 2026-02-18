@@ -1,112 +1,77 @@
-# Control Mapping Chart (100% Keyboard Layout)
+# Control Mapping Chart (100% Layout - Verified)
 
-This document lists all the current keybinds for the **D's Trailer Style** modpack, optimized for a full-sized keyboard.
+This is the definitive control layout for the **D's Trailer Style** modpack. All intentional overlaps have been resolved, and F3 debug keys have been restored to defaults.
 
-## Core Gameplay (Vanilla)
+## 1. Core Gameplay
 
 | Action | Key |
 | --- | --- |
-| Move Forward | `W` |
-| Move Backward | `S` |
-| Move Left | `A` |
-| Move Right | `D` |
+| Movement | `W` `A` `S` `D` |
 | Jump | `Space` |
 | Sneak | `Left Shift` |
 | Sprint | `Left Control` |
-| Attack/Destroy | `Left Mouse` |
-| Use Item/Place Block | `Right Mouse` |
-| Pick Block | `Middle Mouse` |
+| **Crawl** | `C` |
+| **Zoom (Zoomify)** | `Z` |
+| Inventory | `E` |
+| Pick Item | `Middle Mouse` |
 | Drop Item | `Q` |
-| Open/Close Inventory | `E` |
-| Swap Item In Hands | `F` |
-| Hotbar Slots | `1` - `9` |
+| Hand Swap | `F` |
+| Chat / Command | `T` / `/` |
+| Advancements | `L` |
+| Social Menu | `P` |
+| Player List | `Tab` |
 
-## Visuals & Shaders
+## 2. Visuals & Shaders
 
 | Action | Key |
 | --- | --- |
-| Zoom (Zoomify) | `Z` |
-| Zoom Secondary | `Numpad -` |
 | Toggle Shaders | `O` |
 | Reload Shaders | `R` |
-| Shader Selection Menu | `Y` |
-| Wireframe Mode | `\` (Backslash) |
-| Perspective Toggle | `F5` |
+| Shader Menu | `Y` |
+| Toggle Perspective | `F5` |
 | Toggle GUI | `F1` |
 | Screenshot | `F2` |
 | Fullscreen | `F11` |
 | First Person Toggle | `F6` |
 | View Model GUI | `V` |
 
-## Audio & Music
+## 3. Modded Utilities
 
 | Action | Key |
 | --- | --- |
-| Toggle Footsteps | `U` |
+| **Jade WAILA** | `Numpad 0-5` (Profiles 6-9) |
+| **BetterTab Config** | `N` |
+| **FancyToasts Config** | `K` |
+| **Mod Menu** | `M` |
+| Zoom Secondary | `Numpad -` |
+| Secondary Footsteps Toggle | `U` |
 | Footsteps Settings | `F10` |
-| Toggle Music (STFU) | `F7` |
-| Skip Music (STFU) | `F8` |
-| Narrator Hotkey (STFU) | `F9` |
-
-## Gameplay Mechanics
-
-| Action | Key |
-| --- | --- |
-| Crawl | `C` |
-| Better Combat: Feint | `,` (Comma) |
-| Better Combat: Toggle Mine | `.` (Period) |
 | Entity Culling Toggle | `F12` |
-| Culling Boxes Toggle | `]` (Right Bracket) |
-| BedrockIfy Settings | `B` |
 
-## Fancy Block Particles (FBP)
+## 4. Minecraft F3 Debug Sub-Keys (Restored)
 
-| Action | Key |
-| --- | --- |
-| Toggle Mod | `;` (Semicolon) |
-| Toggle Animations | `` ` `` (Grave) |
-| Open FBP Settings | `Home` |
-| Freeze Particles | `Page Up` |
-| Kill Particles | `Page Down` |
-| Add to Blacklist | `Insert` |
-| Reload Config | `Scroll Lock` |
+The following keys now correctly trigger their F3 shortcuts without UI conflict warnings:
 
-## Utilities & UI
+- **F3+A**: Reload Chunks
+- **F3+B**: Show Hitboxes
+- **F3+D**: Clear Chat
+- **F3+G**: Show Chunk Borders
+- **F3+H**: Show Advanced Tooltips
+- **F3+P**: Toggle Focus Pause
+- **F3+T**: Reload Resource Packs
+- **F3+L**: profiling
+- **F3+C**: Copy Location
+- **F3+V**: Dump Version
 
-| Action | Key |
-| --- | --- |
-| Mod Menu (Open) | `M` |
-| BetterTab Toggle | `Numpad /` |
-| BetterTab Config | `N` |
-| Dynamic FPS: Forced | `Pause` |
-| Dynamic FPS: Disabled | `Numpad .` |
-| LambDynamicLights Toggle| `Numpad *` |
-| OptiGUI Inspect | `Numpad +` |
-| FancyToasts Config | `K` |
-| FPS Reducer GUI | `Page Down` |
-| Flashback Marker 1 | `Insert` |
-| Flashback Marker 2 | `Delete` |
-| Flashback Marker 3 | `Home` |
-| Flashback Marker 4 | `Page Up` |
+## 5. Intentional Unmapped Keys
 
-## Jade (WAILA/HWYLA)
+The following have been unmapped in the game to remove overlaps:
 
-| Action | Key |
-| --- | --- |
-| Config | `Numpad 0` |
-| Show Overlay | `Numpad 1` |
-| Toggle Liquid | `Numpad 2` |
-| Show Recipes | `Numpad 3` |
-| Show Uses | `Numpad 4` |
-| Narrate | `Numpad 5` |
-| Jade Profiles (0-3) | `Numpad 6` - `9` |
-| Show Details | `Left Shift` |
-
-## Special / Unmapped
-
-| Action | Status |
-| --- | --- |
-| Zoom (Zume) | `Unmapped` |
-| Smooth Camera | `Unmapped` |
-| Spectator Outlines | `Unmapped` |
-| Debug: Trigger Crash | `Unmapped` |
+- **Save/Load Toolbar Activators** (X and C)
+- **FBP (Fancy Block Particles)**: All mod settings/toggles are in pause menu
+- **Dynamic FPS**: All toggles
+- **ModMenu**: Open Menu (Access through pause/main menu)
+- **LambDynamicLights**: Toggle
+- **OptiGUI**: Inspect
+- **BedrockIfy Settings** (Access through options)
+- **FPS Reducer**: GUI

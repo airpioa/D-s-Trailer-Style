@@ -354,6 +354,13 @@
     "curseForgeHash": 929098323,
     "modrinthHash": "6b535f989b04a86ef9bf36c5ab421cd772d12e7f"
   },
+  "cryingportals-1.21.11-2.9.jar": {
+    "jarName": "cryingportals-1.21.11-2.9.jar",
+    "modId": "cryingportals",
+    "version": "2.9",
+    "curseForgeHash": 3744155925,
+    "modrinthHash": "2f7760d8eb6cb9c476a1bfbb9e4d90d01302bcc0"
+  },
   "cullleaves-fabric-4.1.1.1+1.21.11.jar": {
     "jarName": "cullleaves-fabric-4.1.1.1+1.21.11.jar",
     "modId": "cullleaves",
@@ -892,6 +899,20 @@
     "version": "21.11.2",
     "curseForgeHash": 4109238834,
     "modrinthHash": "eafa6556784cd6a27b7bca48a846f445502a6519"
+  },
+  "netherportalspread-1.21.11-8.4.jar": {
+    "jarName": "netherportalspread-1.21.11-8.4.jar",
+    "modId": "netherportalspread",
+    "version": "8.4",
+    "curseForgeHash": 1567181254,
+    "modrinthHash": "e63059855d70c7f613d190e6dd3263b41046ba9f"
+  },
+  "nicerportals-1.6.1+1.21.11.jar": {
+    "jarName": "nicerportals-1.6.1+1.21.11.jar",
+    "modId": "nicerportals",
+    "version": "1.6.1",
+    "curseForgeHash": 446149233,
+    "modrinthHash": "c51ad5142d522c6a10f22903ac1f6d508fdaf8bb"
   },
   "no-resource-pack-warnings-1.4.0.jar": {
     "jarName": "no-resource-pack-warnings-1.4.0.jar",
@@ -1466,13 +1487,6 @@
     "version": "2.15.2+1.21.11",
     "curseForgeHash": 1933551172,
     "modrinthHash": "e1f738a9026e9f087d96861935f994b010b8131a"
-  },
-  "zume-1.2.1.jar": {
-    "jarName": "zume-1.2.1.jar",
-    "modId": "zume",
-    "version": "1.2.1",
-    "curseForgeHash": 3006123426,
-    "modrinthHash": "433406987269d89cf4fc0170a1f1d1c9b8ddd504"
   },
   "[1.21.x]ProgrammerArtFix-rv5.2.zip (resourcepack)": {
     "jarName": "[1.21.x]ProgrammerArtFix-rv5.2.zip (resourcepack)"
