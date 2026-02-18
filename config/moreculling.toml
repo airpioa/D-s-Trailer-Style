@@ -5,7 +5,7 @@ cloudCulling = true
 signTextCulling = true
 rainCulling = true
 useBlockStateCulling = true
-useCustomItemFrameRenderer = false
+useCustomItemFrameRenderer = true
 itemFrameMapCulling = true
 useItemFrameLOD = true
 itemFrameLODRange = 128
@@ -20,4 +20,14 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+lootr = true
+stoneworks = true
+beautify = true
+bedrockify = true
+diagonalfences = true
+easyanvils = true
+visualworkbench = true
+sereneseasons = true
 minecraft = true
+herosanchoroptimizer = true
+comforts = true

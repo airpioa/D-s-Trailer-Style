@@ -7,3 +7,6 @@ screenshots/
 logs/
 local/
 fancymenu_data/
+.mixin.out/
+crash-reports/
+.gradle/

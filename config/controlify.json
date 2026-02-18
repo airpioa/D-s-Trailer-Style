@@ -29,7 +29,11 @@
           "reduce_aiming": true,
           "look_curve": "standard",
           "is_lce": false,
-          "default_deadzone": 0.12
+          "default_deadzone": 0.12,
+          "deadzones": {
+            "controlify:right_stick": 0.12,
+            "controlify:left_stick": 0.12
+          }
         },
         "radial_menu": {
           "actions": [
@@ -84,5 +88,9 @@
     "seen_servers": [],
     "show_splitscreen_ad": true
   },
-  "devices": {}
+  "devices": {
+    "e924e03fd9de436ef32471c6b608371c": {
+      "gyro_calibration": {}
+    }
+  }
 }
