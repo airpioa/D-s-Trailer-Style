@@ -1,6 +1,6 @@
 version:4671
 betterBiomeBlendRadius:14
-toggleCrawl:false
+toggleCrawl:true
 ao:true
 biomeBlendRadius:1
 chunkSectionFadeInTime:0.0
@@ -17,7 +17,7 @@ glintSpeed:0.5
 glintStrength:0.75
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.0
 guiScale:4
 maxAnisotropyBit:2
@@ -53,7 +53,7 @@ directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
-toggleSprint:false
+toggleSprint:true
 toggleAttack:false
 toggleUse:false
 sprintWindow:7
@@ -65,7 +65,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Bare Bones 1.21.11.zip","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/§b§lAllure Emoji Pack§r§0.zip","cullleaves:smartleaves","file/Trailer Particle.zip","file/FreshAnimations_v1.10.3.zip","file/FA+Emissive-v1.4.1.zip","file/FA+Objects-v2.1.zip","file/FA+Player-v1.0.zip","file/Eating Animation[1.0.1].zip","file/Bare Bones Eating Animations 2.1.1 - 1.21.11.zip","file/Bare Bones x FA+Objects.zip","file/BareBones Moon Fix-V1.0.0.zip","file/Bare_Bones_Patches_V3.2.zip","subtle_effects:biome_color_water_particles","file/Default-Dark-Mode-1.21.11-2026.2.0.zip","file/Fresh Skeleton Physics.zip","file/enchant-icons-1.21.11-v1.3.zip","file/Bare Bones x Fresh Animations 1.10.3.zip"]
+resourcePacks:["vanilla","variants-cit:assetgen","file/Bare Bones 1.21.11.zip","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/§b§lAllure Emoji Pack§r§0.zip","cullleaves:smartleaves","file/Trailer Particle.zip","file/FreshAnimations_v1.10.3.zip","file/FA+Emissive-v1.4.1.zip","file/FA+Objects-v2.1.zip","file/FA+Player-v1.0.zip","file/Eating Animation[1.0.1].zip","file/Bare Bones Eating Animations 2.1.1 - 1.21.11.zip","file/Bare Bones x FA+Objects.zip","file/BareBones Moon Fix-V1.0.0.zip","file/Bare_Bones_Patches_V3.2.zip","subtle_effects:biome_color_water_particles","file/Fresh Skeleton Physics.zip","file/enchant-icons-1.21.11-v1.3.zip","file/Bare Bones x Fresh Animations 1.10.3.zip","file/Default-Dark-Mode-1.21.11-2026.2.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -173,7 +173,6 @@ key_tab.bettertab.keybind.toggle_mod:key.keyboard.unknown
 key_tab.bettertab.keybind.open_config:key.keyboard.n
 key_tab.bettertab.keybind.scroll_right:key.keyboard.right
 key_tab.bettertab.keybind.scroll_left:key.keyboard.left
-key_key.fabrishot.screenshot:key.keyboard.f9
 key_flashback.keybind.create_marker_1:key.keyboard.unknown
 key_flashback.keybind.create_marker_2:key.keyboard.unknown
 key_flashback.keybind.create_marker_3:key.keyboard.unknown
@@ -191,10 +190,10 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.fbp.toggle_mod:key.keyboard.unknown
 key_key.fbp.toggle_animations:key.keyboard.unknown
-key_key.fbp.open_settings:key.keyboard.i
-key_key.fbp.freeze_particles:key.keyboard.r
+key_key.fbp.open_settings:key.keyboard.unknown
+key_key.fbp.freeze_particles:key.keyboard.unknown
 key_key.fbp.kill_particles:key.keyboard.unknown
-key_key.fbp.add_to_blacklist:key.keyboard.x
+key_key.fbp.add_to_blacklist:key.keyboard.unknown
 key_key.fbp.reload_config:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_fpsreducer.key.openGui:key.keyboard.end
@@ -228,8 +227,8 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.fancytoasts.config_menu:key.keyboard.k
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
-soundCategory_master:0.7000001072883606
-soundCategory_music:0.2509352992957746
+soundCategory_master:1.0
+soundCategory_music:0.6081095950704225
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
