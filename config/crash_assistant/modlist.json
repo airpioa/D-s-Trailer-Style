@@ -522,6 +522,13 @@
     "curseForgeHash": 4264146983,
     "modrinthHash": "7cc068a9930b5bd446379a4ff33068808c5e5aa3"
   },
+  "FallingTree-1.21.11-1.21.11.3.jar": {
+    "jarName": "FallingTree-1.21.11-1.21.11.3.jar",
+    "modId": "fallingtree",
+    "version": "1.21.11.3",
+    "curseForgeHash": 2348358046,
+    "modrinthHash": "9daded812605231a5e1e9461a6e04258d0424761"
+  },
   "fancy-door-anim-1.0.2.jar": {
     "jarName": "fancy-door-anim-1.0.2.jar",
     "modId": "fancy-door-anim",

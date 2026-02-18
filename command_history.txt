@@ -1,0 +1,33 @@
+/tick freeze
+/time query
+/time query daytime
+/tick freeze
+/tick unfreezefreeze
+/tick unfreeze
+/enchant Create_Bird minecraft:riptide 10
+/enchant Create_Bird minecraft:riptide 3
+/weather rain
+/weather clear
+/fallingtree toggle
+/gamemode survival
+/gamemode creative
+/effect give Create_Bird minecraft:resistance infinite 225
+/gamemode survival
+/effect give Create_Bird minecraft:jump_boost infinite 20
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/enchant Create_Bird minecraft:mending
+/enchant Create_Bird mob-ai-tweaks:featherweight_munitions 3
+/enchant Create_Bird mob-ai-tweaks:featherweight_munitions
+/enchant Create_Bird mob-ai-tweaks:grappling_bobber
+/enchant Create_Bird minecraft:unbreaking 3
+/enchant Create_Bird minecraft:mending
+/enchant Create_Bird minecraft:density 10
+/enchant Create_Bird minecraft:density 5
+/enchant Create_Bird minecraft:sharpness 3
+/enchant Create_Bird minecraft:sharpness 5
+/gamemode survival
+/enchant Create_Bird minecraft:sharpness 5
